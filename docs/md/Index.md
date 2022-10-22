@@ -1,4 +1,4 @@
-# 《IDEA Plugin 开发手册》• 小傅哥.pdf
+# 《IDEA Plugin 开发手册》pdf
 
 作者：小傅哥
 <br/>博客：[https://bugstack.cn](https://bugstack.cn)
